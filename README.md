@@ -1,3 +1,3 @@
-# file-cloud-server
+# file-storage-server
 
 Academic project implementing RESTful server which stores files and user data in database.
